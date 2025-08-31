@@ -1,11 +1,14 @@
 WhatNext Vision Motors: Shaping the Future of Mobility with Innovation and Excellence
-Overview
+
+->Overview
 
 WhatsNext Vision Motors is a pioneering force in the automotive industry, committed to transforming mobility with innovative solutions.
 This Salesforce CRM project was designed to enhance the customer experience, streamline operations, and automate key business processes within the company’s vehicle ordering system.
 
 The implementation focuses on improving the ordering process, stock validation, dealer assignment, and bulk order management, ensuring customers enjoy a seamless and transparent journey from order placement to delivery.
-Features
+
+->Features
+
 🔹 Salesforce CRM Implementation
 
 Store and manage vehicle details, stock availability, and dealer information.
@@ -33,7 +36,8 @@ Implement trigger handlers to ensure modularity and maintainability.
 Batch Apex to check vehicle stock levels and update availability.
 
 Scheduled jobs to send email notifications for stock replenishment and order processing.
-Technical Requirements
+
+->Technical Requirements
 
 Salesforce CRM
 
@@ -44,7 +48,8 @@ Flows (Record-Triggered)
 Lightning App Builder
 
 Custom Data Model (Vehicles, Dealers, Orders, Stock)
-Benefits of Implementation
+
+->Benefits of Implementation
 
 ✅ Customer Satisfaction – No more confusion about stock availability.
 
